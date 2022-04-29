@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/background_sptwo"/>
+    <item
+        android:width="150dp"
+        android:height="150dp"
+        android:gravity="center"
+        android:drawable="@drawable/clovertwo"/>
+    <item
+        android:top="200dp"
+        android:drawable="@drawable/cellgo_two"
+        android:gravity="center"/>
+</layer-list>

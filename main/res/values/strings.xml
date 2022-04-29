@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Celtic Sounds</string>
+    <string name="click_to_play">Click to play</string>
+    <string name="celtic_music">Celtic Music~~</string>
+    <string name="celtic_musicapp">Celtic MusicApp</string>
+    <string name="play_irish_jig">Play Irish Jig</string>
+    <string name="play_irish_bagpipe">Play irish bagpipe</string>
+    <string name="play_harp">Play Harp</string>
+    <string name="play_irish_band">Play Irish Band</string>
+    <string name="celticmusic_company_llc">CelticMusic Company LLC</string>
+    <string name="click_play_to_start">Click Play to Start</string>
+    <string name="time_here">time here</string>
+</resources>
